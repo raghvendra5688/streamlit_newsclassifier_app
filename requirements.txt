@@ -259,7 +259,7 @@ torchvision==0.22.1+cu118
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
-transformers @ git+https://github.com/huggingface/transformers.git@6e0515e99c39444caae39472ee1b2fd76ece32f1
+transformers==4.48.0.dev0
 triton==3.3.1
 trl==0.9.4
 typeguard==4.4.2
