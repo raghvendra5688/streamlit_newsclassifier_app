@@ -169,7 +169,7 @@ opik==1.6.12
 orjson==3.10.15
 overrides==7.7.0
 packaging==24.2
-pandas==2.2.2
+pandas
 pandocfilters==1.5.1
 param==2.2.0
 parameterized==0.9.0
